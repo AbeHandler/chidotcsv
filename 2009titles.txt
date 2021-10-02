@@ -1,0 +1,681 @@
+ Designing Digital Games for Rural Children: A Study of Traditional Village Games in India 
+ Non-Universal Usability? A Survey of How Usability Is Understood by Chinese and Danish Users
+A Comparative Study of Speech and Dialed Input Voice Interfaces in Rural India
+Sacred Imagery in Techno-Spiritual Design
+ Comparison of Three One-Question, Post-Task Usability Questionnaires
+ Correlations among Prototypical Usability Metrics: Evidence for the Construct of Usability
+Let Your Users Do the Testing: A Comparison of Three Remote Asynchronous Usability Testing Methods
+Adaptive Personalisation for Researcher-Independent Brain Body Interface Usage
+Dynamically Transparent Window
+Evaluating weight perception using digital facial-image feedback
+Designing for All Users -- Including the Odd Users
+Dying, Death, and Mortality: Towards Thanatosensitivity in HCI
+Productive Love: A New Approach for Designing Affective Technology
+Television on the Internet: New Practices, New Viewers 
+The Doctor as the Second Opinion and the Internet as the First
+Designing CALLY, a Cell-phone Robot
+More Than Kimchi and Cash: Designing for Cultural Identity
+ShapeWriter on the iPhone: From the Laboratory to the Real World 
+A Hand Clap Interface for Sonic Interaction with the Computer
+Hiya-Atsu" Media: Augmenting Digital Media with Temperature"""
+Tactful Calling: Urgency-Augmented Phone Calls through High-Resolution Pressure Input on Mobile Phones
+Tangible Sketching in 3D with Posey
+The Mousegrip
+An Online Forum as a User Diary for Remote Workplace Evaluation of a Work-Integrated Learning System
+Designing and Deploying UseTube, Google's Global User Experience Observation and Recording System.
+Supporting the Design of Network-Spanning Applications
+Give Peace a Chance: A Call to Design Technologies for Peace
+Human Computer Biosphere Interaction:Towards a Sustainable Society
+SenseableRays: Opto-Haptic Substitution for Touch-Enhanced Interactive Spaces
+Species-Appropriate Computer Mediated Interaction
+Three environmental discourses in Human-Computer Interaction
+Beyond Usability: Evaluating Emotional Response as an Integral Part of the User Experience
+Open by Design:  How IBM Partnered with the User Community in the Redesign of Lotus Notes
+Perspective Probe: Many Parts add up to a Whole Perspective
+It's What It's In: Evaluating the Usability of Large-scale Integrated Systems
+Leveraging Open-Source Software in the Design and Development Process
+When User Experience  Met Agile: A Case Study
+Citedness, Uncitedness, and the Murky World Between
+HCI for the Real World
+Heat, Fire and Temperature: The Industrial Revolution and HCI
+Out From Behind the Curtain: Learning From a Human Auditory Display
+Some statistical analyses of CHI
+Interfaces with the Ineffable: Meeting Aesthetic Experience On Its Own Terms 
+Performing Perception - Staging Aesthetics of Interaction
+The Aesthetics of Emergence: Co-constructed Interactions 
+ CoSense: Enhancing Sensemaking for Collaborative Web Search
+PlayByPlay: Collaborative Web Browsing for Desktop and Mobile Devices
+Annotate Once, Appear Anywhere: Collective Foraging for Snippets of Interest Using Paragraph Fingerprinting
+With a Little Help from My Friends: Examining the Impact of Social Annotations in Sensemaking Tasks
+Growing Up Programming: Democratizing the Creation of Dynamic, Interactive Media
+Accounting for Diversity in Subjective Judgments
+Aesthetics and experience-centred design 
+Strategy-Based Instruction: Lessons Learned in Teaching the Effective and Efficient Use of Computers
+Figuring Out the One Thing that will Move UX into a Position of Strategic Relevance
+An Intuitive Model of Perceptual Grouping for HCI Design
+Development of Decision Rationale in Complex Group Decision Making
+Learning to Predict Information Needs: Context-Aware Display as a Cognitive Aid and an Assessment Tool
+A Personalized Walk through the Museum: The CHIP Interactive Tour Guide
+activeNotes: Computer-Assisted Creation of Patient Progress Notes
+An Evaluation of Techniques for Selecting Moving Targets
+Bringing Usability to Industrial Control Systems
+Comparing Emotions Using   Acoustics and Human Perceptual Dimensions
+Designing a Privacy Label: Assisting Consumer Understanding of Online Privacy Practices
+Designing a wearable social network
+Designing Interactive Information Access Technologies for Small Scale Rural Indian Farmers
+Effects of Spatial Locations and Luminance on Finding and Re-finding Information in a Desktop Environment
+Emotion Barometer of Reading: User Interface Design of a Social Cataloging Website  
+Exploring the Cognitive Consequences of Social Search
+Facilitating Benign Deceit in Mediated Communication
+Generating Affective Music Icons in the Emotion Plane
+Influences of Mood on Information Seeking Behavior
+InPhase: A Communication System Focused on Happy Coincidences of Daily Behaviors
+Investigating Computer Game Immersion and the Component Real World Dissociation
+KTE2: An Engine for Kinetic Typography
+Learning Design Principles for a Collaborative Information Seeking System
+Making Sense of Accelerometer Measurements in Pervasive Physical Activity Applications
+Mental Workload in Multi-Device Personal Information Management
+Mobile Gesture Interaction Using Wearable Tactile Displays
+Multi-touch Interface for Controlling Multiple Mobile Robots
+ReadingMate: An Infrared-Camera-Based Content Stabilization Technique to Help Joggers Read While Running on a Treadmill
+Spatio-Temporal Interest Points for Video Analysis
+Storytelling through Drawings: Evaluating Tangible Interfaces for Children
+TripTip; A trip planning service with tag-based recommendation
+Web Search and Browsing Behavior under Poor Connectivity
+CropConnect: Enabling Community Supported Agriculture
+Dress for Success: Automating the Recycling of School Uniforms
+Edible Earth:  Dining on Seasonal and Local Ingredients
+eXtend: Reducing E-Waste through Redistribution of Local IT Resources
+LocalBuy: A System for Serving Communities with Local Food
+MIFresh: Promoting Local Produce Consumption
+TreasureHunter: A System to Increase the Reuse of Local Used Goods
+WantKnot: Connecting Organizations to Improve Their Waste Management Practices
+WattBot: A Residential Electricity Monitoring and Feedback System
+Weigh Your Waste: A Sustainable Way to Reduce Waste
+ Amplifying Community Content Creation with Mixed Initiative Information Extraction
+Attaching UI Enhancements to Websites with End Users
+User-created Forms as an Effective Method of Human-agent Communication
+An Evaluation of Coordination Techniques for Protecting Objects and Territories in Tabletop Groupware
+ Territorial Coordination and Workspace Awareness in Remote Tabletop Collaboration
+Fighting for Control: Children's Embodied Interactions When Using Physical and Digital Representations
+Measuring the Impact of Third Place Attachment on the Adoption of a Place-Based Community Technology
+Artful Surfaces in Design Practices
+Co-Reflection: User Involvement for Highly Dynamic Design Processes
+Ten Steps of Integrating User Feedback into the Product Definition Process: A Closed Loop Approach
+Eek! A Mouse! Organic User Interfaces: Tangible, Transitive Materials and Programmable Reality
+Designing the Melody of Interaction through Movies, Maps, Mechanisms, Prototypes and Presentations
+Designing with Unconscious Human Behaviors for Eco-friendly Interaction
+The Reflective Transformative Design Process
+What Can User Experience Learn from Food Design?
+Mobile Technologies for the Worlds Children
+The Beauty Dilemma": Beauty is valued but discounted in product choice"""
+Fault Lines of User Experience: The Intersection of Business and Design
+Make New Friends:  but Keep the Old" - Recommending People on Social Networking Sites"""
+ Predicting Tie Strength With Social Media
+My Dating Site Thinks I'm a Loser": Effects of Personal Photos and Presentation Intervals on Perceptions of Recommender Systems"""
+The Application of Forgiveness in Social System Design
+Design an Interactive Visualization System for Core Drilling Expeditions Using Immersive Empathic Method
+Safety, Speed, and Style: Interaction Design of an In-Vehicle User Interface
+Simplified User Interfaces for Design and User Testing of Architecture Software Applications
+Understanding User Needs for Conceptual Design Phases of Architecture Projects
+When One-Arm Bandits Go Digital: Designing a Casino Back-end System
+Engineering Community: User Experience in Open Source
+Ethnography Considered Harmful
+Designing for Global Impact: A conversation with Nokia's Jan Chipchase on effective design research in cross-cultural mobile markets.
+Interacting with eHealth  Towards Grand Challenges for HCI
+Programming Reality: From Transitive Materials to Organic User Interfaces
+Sensemaking Workshop CHI 2009
+Human-centered Computing in InternationalDevelopment
+Designing for Reflection on Experience
+Crowd Computer Interaction
+Developing Shared Home Behavior Datasets to Advance HCI and Ubiquitous Computing Research
+Tangibles for Children, the Challenges
+Computational Creativity Support:Using Algorithms and Machine Learning to Help People Be More Creative
+Creativity Challenges and Opportunities in Social Computing
+Location and the Web (LocWeb 2009)
+Multitouch and Surface Computing
+Evaluating New Interactions in Healthcare: Challenges and Approaches
+Social Mediating Technologies: Developing the Research Agenda
+Interacting with Temporal Data
+Workshop on End User Programming for the Web
+Age Matters: Bridging the Generation Gap through Technology-Mediated Interaction
+Building a Unified Framework for the Practice of eXperience Design
+Engagement by Design
+Best Practices in Longitudinal Research
+ Correlating Low-Level Image Statistics with Users Rapid Aesthetic and Affective Judgments of Web Pages
+Exploring the Analytical Processes of Intelligence Analysts
+What Do You See When You're Surfing? Using Eye Tracking to Predict Salient Regions of Web Pages
+Mobile User Experience Research: Challenges, Methods & Tools
+Challenges in Evaluating Usability and User Experience of Reality-Based Interaction
+Whole Body Interaction
+The Changing Face of Digital Science: New Practices in Scientific Collaborations
+Defining the Role of HCI in the Challenges of Sustainability
+DIY for CHI:  Methods, Communities, and Values of Reuse and Customization 
+A Short Film About VJs: Using Documentary Film to Engage Performers in Design
+CHIstory
+Collocated Mobile Collaboration
+Comm.unity: Leveraging Social and Physical Proximity
+Context Menus for the Real World: The Stick-Anywhere Computer
+Dancing With Myself: The Interactive Visual canon Platform
+Digital Heritage
+DinnerWare: Why Playing With Food Should Be Encouraged
+DisplayObjects: Functional Prototyping on Real Objects
+Exploring Video Streams using Slit-Tear Visualizations
+Film as Invisible Design: The Example of the Biometric Daemon
+Home, Work, (Play)
+Hyperlinking Reality via Camera Phones
+Interrupted
+Live Recruiting on the Web
+New Mobile UI with Hand-grip Recognition
+Physical Heart in a Virtual Body
+Project Chicago: Green Research
+Pulp-Based Computing:: A Framework for Building Computers Out of Paper 
+QUICKIES - the Future of Sticky Notes
+Remote Impact - Shadowboxing over a Distance
+Sharing Digital Photographs in the Home by Tagging Memorabilia
+SHIFTR: A User-Directed, Link-Based System for Ad Hoc Sensemaking of Large Heterogeneous Data Collections
+Spore Player Research Outtakes
+The Science of Fun
+Adaptive Brain-Computer Interface
+Associative Personal Information Management
+Collaborative Translation by Monolingual Users
+Contemporary Domestic Infrastructures and Technology Design
+Detecting Cognitive and Physical Stress Through Typing Behavior
+Enabling Always-Available Input: through on-body interfaces
+Gaze-Augmented Manual Interaction
+Improving the Learnability of Mobile Device Applications for Older Adults
+Investigating the Psychology of Task-based and Presentation-based UI Customization
+Phatics and the Design of Community
+Social Groups, Social Media, and Civic Participation of High School Youth: Concepts and Methods for Design Implications
+Studying Appropriation of Everyday Technologies - a Cognitive Approach
+Supporting Privacy by Preventing Misclosure
+Users' Ongoing Work on Managing Computational Artifacts
+Visualization and Interaction Techniques for Mobile Devices
+Magic Cards: A Paper Tag Interface for Implicit Robot Control
+The VoiceBot: A Voice Controlled Robot Arm
+Pimp My Roomba": Designing for Personalization"""
+Sketch and Run: A Stroke-based Interface for Home Robots
+Driving User Centered Design into IT Organizations -- Is It Possible?
+API Usability: CHI'2009 Special Interest Group Meeting
+Designing for Families
+SIG Topic TBA
+Integrating User Experience into Free/Libre/Open Source Software: CHI 2009 Special Interest Group
+Usable Intelligent Interactive Systems CHI 2009 Special Interest Group Meeting
+SIG Topic TBA
+Designing user interfaces for multi-touch and gesture devices
+A Longitudinal Study of People Learning to Use Continuous Voice-Based Cursor Control
+An Enhanced Musical Experience for the Deaf: Design and Evaluation of a Music Display and a Haptic Chair
+ Fast Gaze Typing with an Adjustable Dwell Time
+How Well do Visual Verbs Work in Daily Communication for Young and Old Adults?
+Design and Adoption of Social Collaboration Software within Businesses
+Agile User Experience SIG
+User Experience Evaluation: #NAME?
+Research ethics in the Facebook era: privacy, anonymity, and oversight
+End User Software Engineering: CHI 2009 Special Interest Group Meeting
+Programming Reality: From Transitive Materials to Organic User Interfaces
+Sensemaking Workshop CHI 2009
+Human-centered Computing in InternationalDevelopment
+CubeBrowser: A Cognitive Adapter to Explore Media Databases
+Local Sensor - Click to find and Point to do
+'PhonePhone' - NFC Phone as a Musical Instrument
+Talkative Cushion: A Phatic Audio Device to Support Family Communication
+The Birth of Mobile Chinese Keypad & Hybrid Input Methods
+The Shared Worlds of Industrial Design TU/e and Philips Research
+The Ténéré: Design for Supporting Energy Conservation Behaviors
+Call Browser: A System to Improve the Caller Experience by Analyzing Live Calls End-to-End
+ Finding Canonical Behaviors in User Protocols
+Reduced Empathizing Skills Increase Challenges for User-Centered Design
+Queuing Network Modeling of Transcription Typing
+A Biologically Inspired Approach to Learning Multimodal Commands and Feedback for Human-Robot Interaction
+A Gesture-based and Eyes-free Control Method for Mobile Devices
+Action Planning with Commonsense Knowledge
+An fNIR Based BMI for Letter Construction Using Continuous Control
+An Objective and Subjective Evaluation of an Autostereoscopic 3D Display
+Assisted-Care Robot Initiation of Communication in Multiparty Settings
+Automatic Storytelling in Comics: A Case Study on World of Warcraft
+Bezier Lights: Establishing Virtual Boundaries in Indoor Environments
+Blobby: How to Guide a Blind Person
+BubbleWrap: A Textile-Based Electromagnetic Haptic Display
+Calibration-free Gaze Tracking Using a Binocular 3D Eye Model
+Can An ARG Run Automatically?:  
+Can Machines Call People?  User Experience While Answering Telephone Calls Initiated by Machine
+Choosing the right knob
+Co-located Collaborative Web Search: Understanding Status Quo Practices
+Connected Space
+Connecting the Dots with Related Notes
+Contact-and-Connect: Designing New Pairing Interface for Short Distance Wireless Devices
+Designing for Email Response Management
+Designing Interfaces for Presentation of Opinion Diversity
+Designing Unobtrusive Interfaces with Minimal Presence
+Development of Evaluation Heuristics for Web Service User Experience
+Disembodied Performance
+Emotional Gaze Behavior Generation in Human- agent interaction
+Enhancing Brain-Machine Interface Throughput Using Simultaneous Activation Detection
+Ethnochat: An Instant Messenger Program for Ethnography
+Evaluating Non-Interactive Domestic Situated SMS Messaging
+Exploring Cues and Rhythm for Designing Multimodal Tools to Support Mobile Users in Wayfinding
+Exploring Participatory Performance to Inform the Design of Collaborative Public Interfaces
+Exploring Social and Temporal Dimensions of Emotion Induction Using an Adaptive Affective Mirror
+Exploring the Design of Accessible Goal Crossing Desktop Widgets
+Fast Finger Tracking System for In-air Typing Interface
+File Management with Hierarchical Folders and Tags
+Gesture-based Interaction with Virtual 3D Objects on Large Display - What Makes it Fun?
+Grounding Geovisualization Interface Design: A Study of Interactive Map Use
+Haptic Feedback in Remote Pointing
+How Do People Talk to a Robot? An Analysis of Human-Robot Dialogues in the Real World
+iBookmark: Locative Texts and Place-based Authoring
+Imaging-Based Cosmetics Advisory Service
+Implementing Emotion-Based User-Aware E-Learning
+Improving with Age: Designing Enduring Interactive Products
+Information Foraging in E-Voting
+Intentions: A Game for Classifying Search Query Intent
+Interaction Programming: Next Steps
+Intermediated Technology Interaction in Rural Contexts
+Investigating Background & Foreground Interactions Using Spatial Audio Cues
+Investigating Web Search Strategies and Forum Use to Support Diet and Weight Loss
+Lessons from Participatory Design with Adolescents on the Autism Spectrum
+Map Torchlight: A Mobile Augmented Reality Camera Projector Unit
+Measuring Users' Emotional Reactions to Websites
+Metamouse: Multiple Mice for Legacy Applications
+Micro-blogging as Online Word of Mouth Branding
+Multilingual Search Strategies
+Multi-Point Touch Input Method for Korean Text Entry
+New Tools For Task Workflow Analysis
+NextSlidePlease: Navigation and Time Management for HyperPresentations
+Origami Simulator: a Multi-Touch Experience
+Perceived Productivity and the Social Rules for Laptop Use in Work Meetings
+P-Recognition: You Are Already Recognized
+Predicting Query Reformulation During Web Searching
+Product Interest and Engagement Scale, Beta (PIES-beta): Initial Development
+PTZ Control with Head Tracking for Video Chat
+PuyoSheet and PuyoDots: Simple Techniques for Adding Button-push" Feeling to Touch Panels"""
+Rehabilitation of Handwriting Skills in Stroke Patients Using Interactive Games: A Pilot Study
+Rethinking the ESP Game
+Saltate!  A Sensor-Based System to Support Dance Beginners
+Software Ergonomics: Relating Subjective and Objective Measures
+Spectator Understanding of Error in Performance
+Springboard: Exploring Embodiment, Balance and Social Justice
+StoryTags: Once Upon a Time, There Was a Photo
+SuChef: An In-Kitchen Display to Assist with Everyday Cooking
+Support for Seamless Linkage between Less-Detailed and More-Detailed Representations for Comic Design
+Supporting Carers in Their Caring Role Through Design
+Supporting Family Engagement in Weight Management
+Supporting Intercultural Collaboration with Dynamic Feedback Systems: Preliminary Evidence from a Creative Design Task
+Tailoring Websites to Increase Contributions to Online Communities
+The Creativity Support Index
+The Design of ViVA: a Mixed-Initiative Visual Vocabulary for Aphasia
+The Effect of Affective Iconic Realism on Anonymous Interactants Self-Disclosure
+Thinking with Hands: An Embodied Approach to the Analysis of Children's Interaction with Computational Objects
+Toward an Experimental Methodology for Studying Persuasion-Based Online Security
+Towards New Metrics for Multitasking Behavior
+Tracking Behavior in Persuasive Apps:Is Sensor-Based Detection Always Better Than User Self-Reporting?
+Uncertainty Visualization  Why Might it Fail?
+Understanding Consumer Perception of Technological Product Failures: An Attributional Approach
+Usability, Playability, and Long-Term Engagement in Computer Games
+User Experience Evaluation in the Wild
+Using Language Tests and Emotional Expressions to Determine the Learnability of Artificial Languages
+Using Temporal Patterns (T-Patterns) to Derive Stress Factors of Routine Tasks
+Utilizing Pathfinder in the Design of an Intranet Website
+Visualizing Student Activity in a Wiki-mediated Co-blogging Exercise
+Waterhouse: Enabling Secure E-mail with Social Networking
+Why We Cannot Work without Paper Even in a Computerized Work Environment
+WUW - Wear Ur World - A Wearable Gestural Interface
+XPLML - A HCI Pattern Formalizing and Unifying Approach
+A Comparative Study of Interaction Metaphors for Large-Scale Displays
+A Design Evaluation of a User Interface for Tending Long-term Tasks
+A Material Focus - Exploring Properties of Computational Composites
+A Tool to Study Affective Touch:: Goals & Design of the Haptic Creature
+ActiveShare: Sharing Challenges to Increase Physical Activities
+ADAPT: Audience Design of Ambient Persuasive Technology
+Adaptive Pointing - Implicit Gain Adaptation for Absolute Pointing Devices
+AdWiL: Adaptive Windows Layout Manager
+Aesthetics Matter: Leveraging Design Heuristics to Synthesize Visually Satisfying Handheld Interfaces
+An Evaluation of One-handed Techniques for Multiple-target Selection
+Analytics for the Internet of Things
+Analyzing Collaborative Learning Activities in Wikis using Social Network Analysis
+Are People Drawn to Faces on Webpages?
+Asynchronous Gameplay in Pervasive Multiplayer Mobile Games
+At Your Service: Using Butlers as a Model to Overcome the Mobile Attention Deficit
+Auditory Priming for Upcoming Events
+Authority vs. Peer: How Interface Cues Influence Users
+Automatic Retargeting of Web Page Content
+Beyond the Dyad: Understanding Sharing in Instant Messaging
+Brainy Hand:  An Ear-worn Hand Gesture Interaction Device
+Breaking Down Brick Walls: Design, Construction, and Prototype Fabrication Knowledge in Architecture
+'Broken Expectations' from a Global Business Perspective
+Building Support for Multi-session Tasks
+Cell Phone Software Aiding Name Recall
+Cheese Cam: Unconscious Interaction between Humans and a Digital Camera
+City Browser: Developing a Conversational Automotive HMI
+Collaborative Editing of Micro-Tags
+Coralog: Use-Aware Visualization Connecting Human Micro-Activities to Environmental Change
+Cost-effective Wearable Sensor to Detect EMF
+Design models for interactive problem-solving
+Designing for Discovery: Opening the Hood for Open-Source End User Tinkering  
+Device Ecology Mapper: A Tool for Studying Users' Ecosystems of Interactive Artifacts
+Do HCI and NLP Interact?
+Double-side Multi-touch Input for Mobile Devices
+Emotional Experience on Facebook Site
+Enhancing Input Device Evaluation: Longitudinal Approaches
+Experimenting with an Organic Metaphor and Hypervisual Links for the Interface of a Video Collection
+Exploring Effectiveness of Physical Metaphor in Interaction Design
+Expressive Typing: A New Way to Sense Typing Pressure and Its Applications
+Facilitating Multiple Target Tracking using Semantic Depth of Field (SDOF)
+Gaze-Based Interaction with Massively Multiplayer On-line Games
+Gaze-controlled Driving
+Global Mapping of Usability Labs and Centers
+Head-Movement Evaluation for First-Person Games
+I Felt More of a Member of This Class: Increasing Students Sense of Community with Video Commenting
+IdenTTop: A Flexible Platform for Exploring Identity-Enabled Surfaces
+Investigating the Impact of a Minimalist In-Home Energy Consumption Display
+It's Like a Circus in Here!" Affect and Information Sharing in an Emergency Department"""
+Jadeite: Improving API Documentation Using Usage Information
+Lessons from Brain Age on Persuasion for Computer Security
+Let's Clean Up This Mess: Exploring Multi-Touch Collaborative Play
+Letting Tools Talk: Interactive Technology for Firefighting
+Low-Cost Gaze Interaction: Ready to Deliver the Promises
+Material Awareness: Promoting Reflection on Everyday Materiality
+Mediating Programming through Chat for the OLPC
+Mirroring bodily experiences over time
+Montage: A platform for physically navigating multiple pages of web content
+Multimodal Programming Environment for Kids: A Thought Bubble Interface for the Pleo Robotic Character
+Multi-User Interaction in Virtual Audio Spaces
+On the Internet, Everybody Knows You're a Dog: The Human-Pet Relationship in Online Social Networks
+One-Handed Behind-the-Display Cursor Input on Mobile Devices
+Photo Khipu: Organizing a Public Record of Social Transaction
+Predicting Shoppers' Interest from Social Interactions Using Sociometric Sensors
+PressureText: Pressure Input for Mobile Phone Text Entry
+Recognizing and Using Goals in Event Management
+Reflecting back at a Reflective-Practitioner Pedagogy in HCId
+Rhythms of Non-use of Device Ensembles
+Second Skin: Motion Capture with Actuated Feedback for Motor Learning
+See You on the Subway: Exploring Mobile Social Software
+Selective Message Distribution with People-Tagging in User-Collaborative Environments
+Single Stroke Gaze Gestures
+Squidy: A Zoomable Design Environment for Natural User Interfaces
+Supporting Volunteer Activities with Mobile Social Software
+Synchronized Communication and Coordinated Views: Qualitative Data Discovery for Team Game User Studies
+Tag Trails: Navigation with Context and History
+Tagged Photos: Concerns, Perceptions, and Protections
+Take Me Home: Designing Safer In-Vehicle Navigation Devices
+Tangible Message Bubbles for Childrens Communication and Play
+The Accidental Tutor: Overlaying an Intelligent Tutor on an Existing User Interface
+The Moral Accountability of a Personified Agent: Young Adults Conceptions
+Time Sequences
+To Answer or Not to Answer: That is the Question for Cell Phone Users
+Towards a Sensible Integration of Paper-Based Tangible User Interfaces into Creative Work Processes
+Towards Improving Mental Models of Personal Firewall Users
+Towards Intelligent Authoring Tools for Machinima Creation
+Towards Systematic Usability Verification
+Understanding Teamwork in High-Risk Domains Through Analysis of Errors
+Using Bookmark Visualizations for Self-reflection and Navigation
+Using Hands and Feet to Navigate and Manipulate Spatial Data
+Using Tactile Rhythm to Convey Interpersonal Distances to Individuals who are Blind
+Visualizing Remote Voice Conversations
+Warp Speed Design  a Rapid Design Method for use with Children
+Web-Active Users Working with Data
+Wii Can Do It: Using Co-design for Creating an Instructional Game
+WIIS: Multimodal Simulation for Exploring the World beyond Visual Sense
+Writing to Your Car: Handwritten Text Input While Driving
+You Scratch My Back and I'll Scratch Yours: Combating Email Overload Collaboratively
+A Sustainable Identity: The Creativity of an Everyday Designer
+ A Vehicle for Research: Using Street Sweepers to Explore the Landscape of Environmental Community Action
+ Nourishing the Ground for Sustainable HCI:Considerations from Ecologically Engaged Art
+ Cultural Difference and Adaptation of Communication Styles in Computer-Mediated Group Brainstorming
+Difficulties in Establishing Common Ground in Multiparty Groups using Machine Translation
+Resilience Through Technology Adoption: Merging the Old and the New in Iraq
+Expert Recommender Systems in Practice: Evaluating Semi-automatic Profile Generation
+Making Sense of Strangers' Expertise from Signals in Digital Artifacts
+An Exploration of Social Requirements for Exercise Group Formation
+Team Analytics: Understanding Teams in the Global Workplace
+Friend or Foe? Examining CAS Use in Mathematics Research
+Pathfinder: An Online Collaboration Environment for Citizen Scientists
+The TeeBoard: an Education-Friendly Construction Platform for E-Textiles and Wearable Computing
+Focus on Driving: How Cognitive Constraints Shape the Adaptation of Strategy when Dialing while Driving
+At Home and with Computer Access  Why and Where People Use Cell Phones to Access the Internet
+Bringing Design Considerations to the Mobile Phone and Driving Debate
+Can I Borrow Your Phone? Understanding Concerns When Sharing Mobile Phones
+Social Responses in Mobile Messaging: Influence Strategies, Self-Disclosure, and Source Orientation
+Comparing Usage of a Large High-Resolution Display to Single or Dual Desktop Displays for Daily Work
+DICE: Designing Conference Rooms for Usability
+Arrow Tag: A Direction-Key-Based Technique for Rapidly Selecting Hyperlinks While Gazing at a Screen
+Whats This" You Say? The Use of Local References on Distant Displays"""
+Computer Help at Home: Methods and Motivations for Informal Technical Support
+Extraordinary Computing:Religion as a Lens for Reconsidering the Home
+Making Place for Clutter and Other Ideas of Home
+ESPranto SDK: an Adaptive Programming Environment for Tangible Applications
+ Support for Context-Aware Intelligibility and Control
+VIGO: Instrumental Interaction in Multi-Surface Environments
+ Ephemeral Adaptation: The Use of Gradual Onset to Improve Menu Selection Performance
+Revisiting Read Wear: Analysis, Design, and Evaluation of a Footprints Scrollbar
+Power Tools for Copying and Moving: Useful Stuff for your Desktop
+WikiFolders: Augmenting the Display of Folders to Better Convey the Meaning of Files
+ Input-Agreement: A New Mechanism for Collecting Data Using Human Computation Games
+ Matchin: Eliciting User Preferences with an Online Game
+Mixing It Up: Recommending Collections of Items
+ DynaSpot: Speed-Dependent Area Cursor
+The Angle Mouse: Target-Agnostic Dynamic Gain Adjustment Based on Angular Deviation
+ Disambiguating Ninja Cursors with Eye Gaze
+Rake Cursor: Improving Pointing Performance with Concurrent Input Channels
+A Tag in the Hand: Supporting Semantic, Social, and Spatial Navigation in Museums
+Familial Collaborations in a Museum
+ Supporting the Creation of Hybrid Museum Experiences
+Finding Causes of Program Output with the Java Whyline
+Fisheyes in the Field: Using Method Triangulation to Study the Adoption and Use of a Source Code Visualization
+ Two Studies of Opportunistic Programming: Interleaving Web Foraging, Learning, and Writing Code
+Graspables: Grasp-Recognition as a User Interface
+MicroRolls: Expanding Touch-Screen Input Vocabulary by Distinguishing Rolls vs. Slides of the Thumb
+ Unravelling Seams: Improvoing Mobile Gesture Recognition with Visual Feedback Techniques
+Where to Locate Wearable Displays? Reaction Time Performance of Visual Alerts from Tip to Toe
+EnsembleMatrix: Interactive Visualization to Support Machine Learning with Multiple Classifiers
+FacetLens: Exposing Trends and Relationships to Support Sensemaking within Faceted Datasets
+ Sizing the Horizon: The Effects of Chart Size and Layering on the Graphical Perception of Time Series Visualizations
+Coordinating Tasks on the Commons: Designing for Personal Goals, Expertise and Serendipity
+Coordination in Collective Intelligence: The Role of Team Structure and Task Interdependence
+So You Know Youre Getting the Best Possible Information: A Tool that Increases Wikipedia Credibility
+What's in Wikipedia?  Mapping Topics and Conflict Using Socially Annotated Category Structure
+Fly: a Tool to Author Planar Presentations
+Hand Occlusion with Tablet-sized Direct Pen Input
+Text Entry Performance of State of the Art Unconstrained Handwriting Recognition: A Longitudinal User Study
+Wetpaint: Scraping Through Multi-Layered Images
+ An Experimental Study of Field Dependency in Altered Gz Environments
+Taking the Time to Care: Empowering Low Health Literacy Hospital Patients with Virtual Nurse Agents
+Evaluation of a Tool-Mounted Guidance Display for Computer-Assisted Surgery
+Towards Human-Centered Support for Indoor Navigation
+Contextual Web History: Using Visual and Contextual Cues to Improve Web Browser History
+Critical Methods and User Generated Content:: the iPhone on YouTube
+ Note to Self: Examining Personal Information Keeping in a Lightweight Note-Taking Tool
+Whats Mine is Mine: Territoriality in Collaborative Authoring
+Auditory Icon and Earcon Mobile Service Notifications: Intuitiveness, Learnability, Memorability and Preference
+Bezel Swipe: Conflict-Free Scrolling and Multiple Selection on Mobile Touch Screen Devices
+Exploring the Potential of Audio-Tactile Messaging for Remote Interpersonal Communication
+Gravity Sphere: Gestural Audio-Tactile Interface for Mobile Music Exploration
+TouchBall: A Design and Evaluation of a Hand-held Trackball based Touch-Haptic Interface
+Getting Inspired! Understanding How and Why Examples are Used in Creative Design Practice
+Using Improvisation to Enhance the Effectiveness of Brainstorming
+Interactivity Attributes: A New Way of Thinking and Describing Interactivity
+PrintMarmoset: Redesigning the Print Button for Sustainability
+It Feels Better Than Filing: Everyday Work Experiences in an Activity-Based Computing System
+It's Not That Important: Demoting Personal Information of Low Subjective Importance using GrayArea
+Lightweight Tagging Expands Information and Activity Management Practices
+ From Interaction to Trajectories: Designing Coherent Journeys Through User Experiences
+Understanding, Scoping and Defining User eXperience:  A Survey Approach
+User Experience Over Time: An Initial Framework
+More than Face-to-Face: Empathy Effects of Video Framing
+Movable Cameras Enhance Social Telepresence in Media Spaces
+NewsCube: Delivering Multiple Aspects of News to Mitigate Media Bias
+An Elementary Social Information Foraging Model
+Remembrance of Things Tagged: How Tagging Effort Affects Tag Production and Human Memory
+Signpost from the Masses: Learning Effects in an Exploratory Social Tag Search Browser
+ Facts or Friends? Distinguishing Informational and Conversational Questions in Social Q&A Sites
+mimir: A Market-Based Real-Time Question and Answer Service
+Questions in, Knowledge iN? A Study of Naver's Question Answering Community
+Feed Me: Motivating Newcomer Contribution in Social Network Sites
+Helpfulness" in Online Communities: A Measure of Message Quality"""
+The Problem of Conflicting Social Spheres: Effects of Network Structure on Experienced Tension in Social Network Sites
+Design Research as Explanation: Perceptions in the Field
+Framing Design in the Third Paradigm
+Values as Lived Experience: Evolving Value Sensitive Design in Support of Value Discovery
+ Improving Visual Search with Image Segmentation
+PhotoScope: Visualizing Spatiotemporal Coverage of Photos for Construction Management
+ Graph Sketcher: Extending Illustration to Quantitative Graphs
+SiteLens: Situated Visualization Techniques for Urban Site Visits
+ A Comparison of Mobile Money-Transfer UIs for Non-Literate and Semi-Literate Users
+Comparing Semiliterate and Illiterate Users' Ability to Transition from Audio+Text to Text-Only Interaction
+StoryBank: Mobile Digital Storytelling in a Development Context
+ Back-of-Device Interaction Allows Creating Very Small Touch Devices
+Codex: A Dual Screen Tablet Computer
+ Tilt Techniques: Investigating the Dexterityof Wrist-based Input
+I'm Sorry, Dave: I'm Afraid I Won't Do That: Social Aspects of Human-Agent Conflict 
+Machine Intelligence
+ Why and Why Not Explanations Improve the Intelligibility of Context-Aware Intelligent Systems
+Blogging at Work and the Corporate Attention Economy
+Learning by Seeing: Photo Viewing in the Workplace
+Exploring Awareness Needs and Information Display Preferences Between Coworkers
+ Yours, Mine and (Not) Ours: Social Influences on Group Information Repositories
+Comprehensive Study of Frequency, Interference, and Training of Multiple Graphical Passwords
+Real Life Challenges in Access-control Management
+ Awareness, Training and Trust in Interaction with Adaptive Spam Filters.
+VibraPass - Secure Authentication Based on Shared Lies
+It's Not What You Know, But Who You Know: A social approach to last-resort authentication
+When I am on Wi-Fi:  I am Fearless:" Privacy Concerns & Practices in Everyday Wi-Fi Use"""
+Who's Viewed You? The Impact of Feedback in a Mobile Location-Sharing Application
+A Mischief of Mice: Examining Childrens Performance in Single Display Groupware Systems with 1 to 32 Mice
+Mobile Media in the Social Fabric of a Kindergarten
+Designing with Children with Severe Motor Impairments
+HeartBeat: An Outdoor Pervasive Game for Children
+Tabletop Displays for Small Group Study: Affordances of Paper and Digital Materials
+The WeSpace: The Design Development and Deployment of a Walk-Up and Share Multi-Surface Visual Collaboration System
+CThru: Exploration in a Video-Centered Information Space for Educational Purposes
+Turning the Tables: An Interactive Surface for VJing
+Evaluating Existing Audio CAPTCHAs and an Interface Optimized for Non-Visual Use
+On the Audio Representation of Distance for Blind Users
+Data sonification for visually impaired users
+Exploring Websites through Contextual Facets
+Visual Snippets: Summarizing Web Pages for Search and Revisitation
+From X-Rays to Silly Putty via Uranus: Serendipity and its Role in Web Search
+Semantically Structured Tag Clouds: An Empirical Evaluation of Clustered Presentation Approaches
+Brain Measurement for Usability Testing and Adaptive Interfaces: An Example of Uncovering Syntactic Workload with Functional Near Infrared Spectroscopy
+O' Game, Can You Feel My Frustration?:  Improving User's Gaming Experience via StressCam
+A Performance Model of Selection Techniques for P300-Based Brain-Computer Interfaces
+Discriminating the relevance of web search results with measures of pupil size
+ A User Study on Visualizing Directed Edges in Graphs
+Path Selection: A Novel InteractionTechnique for Mapping Applications
+Topology-Aware Navigation in Large Networks
+Design, Implementation and Evaluation of a Novel Public Display for Pedestrian Navigation: The Rotating Compass
+Eyespy: Supporting Navigation through Play
+Simulated Augmented Reality Windshield Display as a Cognitive Mapping Aid for Elder Driver Navigation
+Motion-Pointing: Target Selection using Elliptical Motions
+Providing Dynamically Changeable Physical Buttons on a Visual Display
+The Performance of Touch Screen Soft Buttons
+Creating a Spoken Impact: encouraging vocalization through audio visual feedback in children with ASD
+Autism online: A comparison of word usage in bloggers with and without Autism Spectrum Disorders
+Design of Haptic Interfaces for Therapy
+An Integrated Approach for Modeling Learning Patterns 
+Empirical Evaluation for Finger Input Properties In Multi-touch Interaction
+The Design and Evaluation of Multi-Finger Mouse Emulation Techniques
+ User-Defined Gestures for Surface Computing
+The People-Prototype Problem: Understanding the Interaction Between Prototype Format and User Group
+The Anatomy of Prototypes: Prototypes as Filters, Prototypes as Manifestations of Design Ideas
+The Soft Properties of Interaction
+PenLight: Combining a Mobile Projector and a Digital Pen for Dynamic Visual Overlay
+To Move or Not to Move: A Comparison between Steerable versus Fixed Focus Region Paradigms in Multi-Resolution Tabletop Display Systems
+Transparent 2-D Markers on an LCD Tabletop System
+Timing Is Everything? The Effects of Timing and Placement of Online Privacy Indicators
+Designing trustworthy situated services: An implicit and explicit assessment of locative images effect on trust
+Social computing privacy concerns: antecedents and effects
+From Privacy Methods to A Privacy Toolbox: Evaluation Shows that Heuristics are Complementary
+Dynamic Mapping of Physical Controls for Tabletop Groupware
+SLAP Widgets: Bridging the Gap Between Virtual and Physical Controls on Tabletops
+Touch and Toys: new techniques for interaction with a remote group of robots
+ A Survey of Software Learnability: Metrics, Methodologies and Guidelines
+ Undo and Erase Events as Indicators of Usability Problems
+SmartPlayer: User-Centric Video Fast-Forwarding
+Videolyzer: Quality Analysis of Online Informational Video for Bloggers and Journalists
+What's Next?: Emergent Storytelling from Video Collection
+Comparing the Use of Tangible and Graphical Programming Languages for Informal Science Education
+Designers Wanted: Participation and the User Experience in Open Source Software Development
+Understanding How and Why Open Source Contributors Use Diagrams in the Development of Ubuntu
+Body and Mind: A Study of Avatar Personalization in Three Virtual Worlds
+Capturing and Sharing Memories in a Virtual World
+In Support of City Exploration
+Butler Lies: Awareness, Deception and Design
+In CMC We Trust: The Role of Similarity
+Visualizing Real-Time Language-Based Feedback on Teamwork Behavior in Computer-Mediated Groups
+Designing for the Self: Making Products that Help People Become the Person they Desire to Be
+Theory-Driven Design Strategies for Technologies that Support Behavior Change in Everyday Life
+(Perceived) Interactivity: Does Interactivity IncreaseEnjoyment and Creative Identity in Artistic Spaces?
+Learning from IKEA Hacking: Im Not One to Decoupage a Tabletop and Call It a Day.
+GestureBar: Improving the Approachability of Gesture-based Interfaces
+ Lean Collaboration Through Video Gestures: Co-ordinating the Production of Live Televised Sport
+Using Strokes as Command Shortcuts: Cognitive Benefits and Toolkit Support
+ Design Influence on Social Play in Distributed Exertion Games
+The Three-Sixty Illusion: Designing For Immersion in Pervasive Games
+Wii All Play: The Console Game as a Computational Meeting Place
+backchan.nl: Integrating Backchannels in Physical Space
+Learning How: The Search for Craft Knowledge on the Internet
+Resonance on the Web: Web Dynamics and Revisitation Patterns
+Scientometric Analysis Of The CHI Proceedings
+Computer Usage in Daily Life
+Social Television Comes Home:A Field Study of Communication Choices and Practices in TV-Based Text and Voice Chat
+Supporting the Social Uses of Television: Sociability Heuristics for Social TV
+ Musink: Composing Music through Augmented Drawing
+Passive Photography from a Creative Perspective: "If I would just shoot the same thing for seven days:  it's like... What's the point?"
+Urban Pixels: Painting the City with Light
+Adaptive Information Search: Age-Dependent Interactions between Cognitive Profiles and Strategies
+Desiring to be in Touch in a Changing Communications Landscape: Attitudes of Older Adults
+Knocking on Elders Door: Investigating the Functional and Emotional Geography of their Domestic Space
+It's Not Easy Being Green: Understanding Home Computer Power Management
+UbiGreen: Investigating a Mobile Tool for Tracking and Supporting Green Transportation Habits
+Understanding Why We Preserve Some Things and Discard Others in the Context of Interaction Design
+A Mobile Voice Communication System in Medical Setting: Love it or Hate it?
+Clinical Evaluations and Collaborative Design: Developing New Technologies for Mental Healthcare Interventions
+I just don't know why it's gone: Maintaining Informal Information Use in Inpatient Care
+Anatomy of a Failure: How We Knew When Our Design Went Wrong, and What We Learned From It 
+Getting There: Six Meta-Principles and Interaction Design
+On Being Supple: In Search of Rigor without Rigidity in Meeting New Design and Evaluation Challenges for HCI Practitioners 
+Sharing Empty Moments: Design for Remote Couples
+Supporting Content and Process Common Ground in Computer-Supported Teamwork
+Conversation Clusters: Grouping Conversation Topics through Human-Computer Dialog
+Effects of Real-time Transcription on Non-native Speaker's Comprehension in Computer-mediated Communications
+Enhancing remote participation in live auctions: an intelligent gavel 
+Revealing Gauguin: Engaging Visitors in Robot Guide's Explanation in an Art Museum
+ Social Immersive Media: Pursuing best practices for multi-user interactive camera/projector exhibits
+ Interaction Criticism and Aesthetics
+Understanding Knowledge Management Practices for Early Design Activity and Its Implications for Reuse
+Towards a theory of user judgement of aesthetics and user interface quality 
+Tactile Motion Instructions for Physical Activities
+Audio or Tactile Feedback: Which Modality When?
+Tactile Feedback for Predictive Text Entry
+Texture Displays: A Passive Approach to Tactile Presentation
+TypeRight: a Keyboard with Tactile Error Prevention
+Self-Interruption on the Computer: A Typology of Discretionary Task Interleaving
+The Problem of Consistency in the Design of Fitts Law  Experiments: Consider either Target Distance and Width or Movement Form and Scale
+Toward a Unified Theory of the Multitasking Continuum: From Concurrent Performance to Task Switching, Interruption, and Resumption
+Baby Steps: Evaluation of a System to Support Record-Keeping for Parents of Young Children
+Making History: Intentional Capture of Future Memories
+Getting Sidetracked: Display Design and Occasioning Photo-Talk with the Photohelix
+Reflections of Everyday Activities in Spending Data
+ Designable Visual Markers
+ Like Bees Around the Hive: A Comparative Study of a Mobile Augmented Reality Map
+Going My Way: a user-aware route planner: a user-aware route planner
+Inferring Player Engagement in a Pervasive Experience
+An Education-Friendly Construction Platform for Wearable Computing
+Aurally and Visually Enhanced Audio Search with SoundTorch
+Low-Cost Gaze Pointing and EMG Clicking
+Natural Throw and Tilt Interaction between Mobile Phones and Distant Displays
+Wearable EOG Goggles: Eye-Based Interaction in Everyday Environments
+Acquiring a Professional Second Life: Problems and Prospects for the Use of Virtual Worlds in Business
+Bringing Web 2.0 to Government Research: A Case Study
+Designing for and with Diaspora: A Case Study of Work for the Truth and Reconciliation Commission of Liberia
+Burn Your Memory Away: One-time Use Video Capture and Storage Device to Encourage Memory Appreciation
+Interactive Slide: an Interactive Playground to Promote Physical Activity and Socialization of Children
+Opportunities for Actuated Tangible Interfaces to Improve Protein Study
+soft(n): Toward a Somaesthetics of Touch
+Stress OutSourced: A Haptic Social Network via Crowdsourcing
+Panel Details TBA
+CaraClock: An Interactive Photo Viewer Designed for Family Memories
+FLUX,  A Tilting Multi-Touch and Pen Based Surface
+IMPAD - An Inexpensive Multitouch Pressure Aquisition Device
+Occlusion-Aware Menu Design for Digital Tabletops
+SLAP Widgets: Bridging the Gap Between Virtual and Physical Controls on Tabletops
