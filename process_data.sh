@@ -4,7 +4,7 @@
 cat bib/87.bib | tr 'year = {1986}' 'year = {1987}' > /tmp/a && mv /tmp/a bib/87.bib
 
 
-cat bib/*bib | grep -e "@inproceedings" -e "article" -A 3 | egrep "^title" > titles.txt
+cat bib/*bib | grep -e "@inproceedings" -e "article" -A 3 | egrep "^title"  | grep "{[^}]*" -o | tr -d "{" > titles.txt
 #cat *bib | egrep "^url" | grep "https[^}]*" -o > doi.txt
 cat bib/*bib | egrep "^year =" | egrep '[0-9]{4}' -o > years.txt
 
