@@ -21,4 +21,4 @@ The other validation I do is make sure I get the same number of years and titles
 
 ## Other notes 
 
-See this similar effort about [viz](venues)
+See this similar effort focused on [viz](https://sites.google.com/site/vispubdata/home) papers
