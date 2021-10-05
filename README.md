@@ -1,6 +1,6 @@
 # chidotcsv
 
-This repo holds code and data to make a big csv file of all CHI paper titles going back to 1981. The main script to create the dataset is `main.sh`.
+This repo holds code and data to make a big csv file of all CHI paper titles going back to 1981. The main script to create the dataset is `main.sh`. 
 
 ## Data collection
 
@@ -18,3 +18,7 @@ Once data is collected by hand and by scripts, it needs to be processed to creat
 ACM posts acceptance rates by year in the CHI proceedings section of the ACM library. I copied/pasted this information by hand into `acm_acceptance.txt` and wrote a script to check the count of papers by year collected in this repo vs. the ACM count. For now, the main validation that I am oding is checking to see that the count in this repo is either higher or very slightly than the ACM count. Help with validation would be great! The validation script is in `validate_data.sh`.
 
 The other validation I do is make sure I get the same number of years and titles. Parsing should return the same number of each.
+
+## Other notes 
+
+See this similar effort about [viz](venues)
